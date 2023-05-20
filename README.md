@@ -3,7 +3,7 @@
 
 demo link 
 <br>
-<a href="https://azgames.ir/user/login">https://azgames.ir/user/login</a>
+<a href="https://azgames.ir/user/login" target="_blank">https://azgames.ir/user/login</a>
 
 
 <b>user</b>
